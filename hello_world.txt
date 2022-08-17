@@ -1,0 +1,5 @@
+print "hello world"
+i still have no idea what im doing lmao, one day though
+but at least i know a bit about the terminal and the basic commands, i think i've become a pro in touching my new files
+
+
